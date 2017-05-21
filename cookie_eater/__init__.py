@@ -4,7 +4,7 @@
 # Part of the CookieEater package.
 #
 # Copyright (c) 2017 - Chris Griffith - MIT License
-from __future__ import absolute_import
+
 from .firefox import *
 from .chrome import *
 from .base import *
